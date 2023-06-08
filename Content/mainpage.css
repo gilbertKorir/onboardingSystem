@@ -1,0 +1,52 @@
+﻿
+.navbar-nav {
+    margin-left: auto;
+    /*padding:5px;*/
+    font-size:20px;
+    justify-content:space-evenly;
+    
+}
+.navbar {
+    
+    height: 13vh;
+    background-color: #2BABF3;
+    /*position:fixed;*/
+}
+
+.navbar a{
+    color: black;
+}
+#home {
+    height: 130vh;
+    background-image: url('../images/bg4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    z-index: -1;
+    color: #cccccc;
+    background-position: center center;
+    opacity: 1.5;
+}
+#know{
+    color:white;
+    margin-top:150px;
+    margin-left:45px;
+    font-weight:bolder;
+   
+}
+.kn{
+    background-color: #2BABF3;
+    margin-left:150px;
+    border:none;
+    padding:7px;
+    border-radius:3px;
+    width:150px;
+    color:black;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 98%;
+}
+
